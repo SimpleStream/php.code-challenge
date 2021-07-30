@@ -114,7 +114,7 @@ Please refactor the interfaces into a more sensible architecture. You can add ne
 ## Submission Rules
 
 1. You will have **two days** to complete the code challenge.
-2. Fork this repository to your own GitHub account, create a new branch for each code challenge (e.g. *feature/challenge-01*, *feature/challenge-02*) and do your changes on those branches. When you are done, please create pull requests for your changes into main (**Without merging!**) so we can review the pull requests.
+2. Download this repository and create a new repository in your own GitHub account (**Don't Fork this repository!**). Create a new branch for each code challenge (e.g. *feature/challenge-01*, *feature/challenge-02*) and do your changes on those branches. When you are done, please create pull requests for your changes into main (**Without merging!**) so we can review the pull requests.
 3. There are many different possible solutions and approaches to implement the required business rules. We are not looking a specific solution but instead are more interested in your approach, how you've implemented your solution and how you structure & format your code.
 4. You should try to follow SOLID principles as a general guideline.
 5. All code **MUST** be formatted to [PSR12 coding style guidelines](https://www.php-fig.org/psr/psr-12/).
