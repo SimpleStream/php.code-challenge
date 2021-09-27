@@ -15,7 +15,7 @@
 |-----------------	|--------------------------------	|
 | Team            	| Backend (Web) Development Team 	|
 | Reports To      	| Head of Software Development   	|
-| Time Allocation 	| 2 days                         	|
+| Time Allocation 	| 45 min                         	|
 
 <hr/>
 
@@ -25,7 +25,7 @@ The purpose of this code test is to help us understand your style of coding, tec
 
 We are looking at how you approach a problem and how closely you can follow a specification. Remember to show off your ability to write readable code that is maintainable and scalable.
 
-If you struggle with understanding the requirements, please forward your questions to your recruiter, so that we can assist you.
+If you struggle with understanding the requirements, please forward your questions to your interviewer, so that we can assist you.
 
 <hr/>
 
@@ -101,22 +101,13 @@ We have included [symfony/dotenv](https://symfony.com/components/Dotenv). You ca
 $dbHost = env('DB_HOST');
 ```
 
-##### **Challenge 2 | Folder: Challenge.02 | time allocated: `15 min`**
-
-Part of our legacy code isn't following SOLID principles and becoming difficult to maintain.
-
-###### Task
-
-Please refactor the interfaces into a more sensible architecture. You can add new interfaces where required.
-
 <hr/>
 
 ## Submission Rules
 
-1. You will have **two days** to complete the code challenge.
-2. Download this repository and create a new repository in your own GitHub account (**Don't Fork this repository!**). Create a new branch for each code challenge (e.g. *feature/challenge-01*, *feature/challenge-02*) and do your changes on those branches. When you are done, please create pull requests for your changes into main (**Without merging!**) so we can review the pull requests.
-3. There are many different possible solutions and approaches to implement the required business rules. We are not looking a specific solution but instead are more interested in your approach, how you've implemented your solution and how you structure & format your code.
-4. You should try to follow SOLID principles as a general guideline.
-5. All code **MUST** be formatted to [PSR12 coding style guidelines](https://www.php-fig.org/psr/psr-12/).
-6. Please include docblocks for your methods and comment only where necessary.
-7. Once completed, please send your repo url for review.
+1. Download this repository and create a new repository in your own GitHub account (**Don't Fork this repository!**). Create a new branch for the code challenge (e.g. *feature/challenge-01*) and do your changes on the branch. When you are done, please create pull requests for your changes into main (**Without merging!**) so we can review the pull requests.
+2. There are many different possible solutions and approaches to implement the required business rules. We are not looking a specific solution but instead are more interested in your approach, how you've implemented your solution and how you structure & format your code.
+3. You should try to follow SOLID principles as a general guideline.
+4. All code **MUST** be formatted to [PSR12 coding style guidelines](https://www.php-fig.org/psr/psr-12/).
+5. Please include docblocks for your methods and comment only where necessary.
+6. Once completed, please send your repo url for review.
